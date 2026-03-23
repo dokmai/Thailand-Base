@@ -1,2 +1,2 @@
 # Thailand-Base
-ข้อมูลเกียวกับประเทศไทย เพื่อนำไปใช้พัฒนา. - information on Thailand for development.
+ข้อมูลเกี่ยวกับประเทศไทย เพื่อนำไปใช้พัฒนา. - information on Thailand for development.
