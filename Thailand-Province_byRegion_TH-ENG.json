@@ -1,0 +1,109 @@
+{
+  "northern": {
+    "name": "ภาคเหนือ",
+    "provinces": [
+      { "th": "เชียงราย", "en": "Chiang Rai" },
+      { "th": "เชียงใหม่", "en": "Chiang Mai" },
+      { "th": "น่าน", "en": "Nan" },
+      { "th": "พะเยา", "en": "Phayao" },
+      { "th": "แพร่", "en": "Phrae" },
+      { "th": "แม่ฮ่องสอน", "en": "Mae Hong Son" },
+      { "th": "ลำปาง", "en": "Lampang" },
+      { "th": "ลำพูน", "en": "Lamphun" },
+      { "th": "อุตรดิตถ์", "en": "Uttaradit" }
+    ]
+  },
+  "northeastern": {
+    "name": "ภาคตะวันออกเฉียงเหนือ",
+    "provinces": [
+      { "th": "กาฬสินธุ์", "en": "Kalasin" },
+      { "th": "ขอนแก่น", "en": "Khon Kaen" },
+      { "th": "ชัยภูมิ", "en": "Chaiyaphum" },
+      { "th": "นครพนม", "en": "Nakhon Phanom" },
+      { "th": "นครราชสีมา", "en": "Nakhon Ratchasima" },
+      { "th": "บึงกาฬ", "en": "Bueng Kan" },
+      { "th": "บุรีรัมย์", "en": "Buri Ram" },
+      { "th": "มหาสารคาม", "en": "Maha Sarakham" },
+      { "th": "มุกดาหาร", "en": "Mukdahan" },
+      { "th": "ยโสธร", "en": "Yasothon" },
+      { "th": "ร้อยเอ็ด", "en": "Roi Et" },
+      { "th": "เลย", "en": "Loei" },
+      { "th": "ศรีสะเกษ", "en": "Si Sa Ket" },
+      { "th": "สกลนคร", "en": "Sakon Nakhon" },
+      { "th": "สุรินทร์", "en": "Surin" },
+      { "th": "หนองคาย", "en": "Nong Khai" },
+      { "th": "หนองบัวลำภู", "en": "Nong Bua Lam Phu" },
+      { "th": "อำนาจเจริญ", "en": "Amnat Charoen" },
+      { "th": "อุดรธานี", "en": "Udon Thani" },
+      { "th": "อุบลราชธานี", "en": "Ubon Ratchathani" }
+    ]
+  },
+  "central": {
+    "name": "ภาคกลาง",
+    "provinces": [
+      { "th": "กรุงเทพมหานคร", "en": "Bangkok" },
+      { "th": "กำแพงเพชร", "en": "Kamphaeng Phet" },
+      { "th": "ชัยนาท", "en": "Chai Nat" },
+      { "th": "นครนายก", "en": "Nakhon Nayok" },
+      { "th": "นครปฐม", "en": "Nakhon Pathom" },
+      { "th": "นครสวรรค์", "en": "Nakhon Sawan" },
+      { "th": "นนทบุรี", "en": "Nonthaburi" },
+      { "th": "ปทุมธานี", "en": "Pathum Thani" },
+      { "th": "พระนครศรีอยุธยา", "en": "Phra Nakhon Si Ayutthaya" },
+      { "th": "พิจิตร", "en": "Phichit" },
+      { "th": "พิษณุโลก", "en": "Phitsanulok" },
+      { "th": "เพชรบูรณ์", "en": "Phetchabun" },
+      { "th": "ลพบุรี", "en": "Lop Buri" },
+      { "th": "สมุทรปราการ", "en": "Samut Prakan" },
+      { "th": "สมุทรสงคราม", "en": "Samut Songkhram" },
+      { "th": "สมุทรสาคร", "en": "Samut Sakhon" },
+      { "th": "สระบุรี", "en": "Saraburi" },
+      { "th": "สิงห์บุรี", "en": "Sing Buri" },
+      { "th": "สุโขทัย", "en": "Sukhothai" },
+      { "th": "สุพรรณบุรี", "en": "Suphan Buri" },
+      { "th": "อ่างทอง", "en": "Ang Thong" },
+      { "th": "อุทัยธานี", "en": "Uthai Thani" }
+    ]
+  },
+  "eastern": {
+    "name": "ภาคตะวันออก",
+    "provinces": [
+      { "th": "จันทบุรี", "en": "Chanthaburi" },
+      { "th": "ฉะเชิงเทรา", "en": "Chachoengsao" },
+      { "th": "ชลบุรี", "en": "Chon Buri" },
+      { "th": "ตราด", "en": "Trat" },
+      { "th": "ปราจีนบุรี", "en": "Prachin Buri" },
+      { "th": "ระยอง", "en": "Rayong" },
+      { "th": "สระแก้ว", "en": "Sa Kaeo" }
+    ]
+  },
+  "western": {
+    "name": "ภาคตะวันตก",
+    "provinces": [
+      { "th": "กาญจนบุรี", "en": "Kanchanaburi" },
+      { "th": "ตาก", "en": "Tak" },
+      { "th": "ประจวบคีรีขันธ์", "en": "Prachuap Khiri Khan" },
+      { "th": "เพชรบุรี", "en": "Phetchaburi" },
+      { "th": "ราชบุรี", "en": "Ratchaburi" }
+    ]
+  },
+  "southern": {
+    "name": "ภาคใต้",
+    "provinces": [
+      { "th": "กระบี่", "en": "Krabi" },
+      { "th": "ชุมพร", "en": "Chumphon" },
+      { "th": "ตรัง", "en": "Trang" },
+      { "th": "นครศรีธรรมราช", "en": "Nakhon Si Thammarat" },
+      { "th": "นราธิวาส", "en": "Narathiwat" },
+      { "th": "ปัตตานี", "en": "Pattani" },
+      { "th": "พังงา", "en": "Phangnga" },
+      { "th": "พัทลุง", "en": "Phatthalung" },
+      { "th": "ภูเก็ต", "en": "Phuket" },
+      { "th": "ระนอง", "en": "Ranong" },
+      { "th": "สงขลา", "en": "Songkhla" },
+      { "th": "สตูล", "en": "Satun" },
+      { "th": "สุราษฎร์ธานี", "en": "Surat Thani" },
+      { "th": "ยะลา", "en": "Yala" }
+    ]
+  }
+}
